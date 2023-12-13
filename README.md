@@ -1,2 +1,2 @@
 # Project-x
-my first trial project
+Testing project
